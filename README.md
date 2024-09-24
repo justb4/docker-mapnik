@@ -8,7 +8,6 @@ Debian Docker image with Mapnik, including Mapnik Python bindings, PostGIS backe
 and mapping API support via FastAPI. All via apt-installs.
 
 Docker Images are available at: https://hub.docker.com/repository/docker/justb4/mapnik/
-# Image Tags and Versions
 
 Image tag convention: `<mapnik-version>-<buildnr>`, for example
 
